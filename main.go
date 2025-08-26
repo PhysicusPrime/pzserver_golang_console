@@ -56,6 +56,8 @@ func main() {
 	}
 
 	// RCON verbinden
+	// addr := os.Getenv("RCON_ADDRESS")
+	// password := os.Getenv("RCON_PASSWORD")
 	addr := "34.32.108.129:27015"
 	password := "x3pc092201"
 	var err error

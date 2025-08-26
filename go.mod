@@ -1,4 +1,4 @@
-module ultimate_bot
+module github.com/PhysicusPrime/pzserver_golang_console.git
 
 go 1.23
 
